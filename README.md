@@ -25,7 +25,7 @@
 
 ```
 - 🎯 I’m currently working on important stuff
-- 🎨 I’m also a HTML Devoloper / Front End Web Developer.
+- 🎨 I’m also a HTML Developer / Front End Web Developer.
 - 🔭 I’m looking for projects.
 - 🤖 I relish creating automated bots and hardware devices {Raspberry Pi 4B}.
 - 🎭 My doppelgänger loves Sketching, Artworks, Handicrafts and Gaming.
